@@ -1,0 +1,88 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: url('https://www.ci.lebanon.or.us/sites/default/files/styles/gallery500/public/imageattachments/cd/page/488/water_drop_2015_smaller.jpg?itok=85FW7DL0');
+    background-repeat: no-repeat;
+    background-position: contian;
+  background-size: cover;
+}
+.log{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-top: 15% ;
+    margin-left: 30%;
+   border-radius: 20px;
+   border-color: black;
+   border: 2px solid black;
+    
+}
+.log input{
+   text-align: center;
+    margin-top:40px;
+    width: 80%;
+    height: 15%;
+     border-radius: 20px;
+}
+.log h3{
+    padding-top: 13px;
+    color: white;
+    font-size: 1.3rem;
+}
+.log  #btn{
+    font-size: 1.4rem;
+    padding-top: 0px; 
+}
+.log  #btn:hover{
+    background-color: green;
+    color: white;
+    font-size: 1.4rem;
+    padding-top: 0px;
+}
+.sigup{
+    width: 600px;
+    height: 550px;
+    text-align: center;
+    margin-top: 40px ;
+    margin-left: 30%;
+   border-radius: 20px;
+   border-color: black;
+   border: 2px solid black;
+   background: rgba(0,0,0,0.5);
+}
+.sigup h3{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 1.5rem;
+}
+.sigup input{
+   text-align: center;
+    margin-top:10px;
+    width: 50%;
+    height :35px;;
+     border-radius: 20px;
+     font-size: 1.2rem;
+}
+.sigup  #btn{
+    font-size: 1.4rem;
+    padding-top: 0px; 
+    width: 20%;
+}
+.sigup #btn:hover{
+    background-color: green;
+    color: white;
+    font-size: 1.4rem;
+
+    border:3px solid black;
+    padding-top: 0px;
+        border-radius: 5px;
+}
+.sigup label{
+    font-size: 1.4rem;
+font-weight: 100px;
+color: white;
+top: 50px;
+margin-top: 120px;
+}
